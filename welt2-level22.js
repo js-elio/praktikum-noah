@@ -1,0 +1,35 @@
+// You can use a database to store persistent data.
+// Persistent data stays the same between plays of your game!
+
+var generator = game.spawnXY("generator", 60, 40);
+generator.spawnType = "munchkin";
+generator.spawnDelay = 1;
+var player = game.spawnPlayerXY("raider", 36, 30);
+player.maxHealth = 70;
+player.attackDamage = 10;
+game.addSurviveGoal(8);
+game.addDefeatGoal(2);
+
+// db stands for database
+// db.add(key, value) increments a value stored in the database.
+// This adds 1 to the "plays" key in the database.
+db.add("plays", 1);
+
+// Show the value of the "plays" and other keys in the db
+ui.track(db, "plays");
+ui.track(db, "wins");
+ui.track(game, "defeated");
+
+ui.track(game, "time");
+
+// Show the value of the "defeated" property of the game object
+
+// The code below will run when the player wins the game.
+function onVictory(event) {
+    db.add("wins", 1);
+    // Use db.add(key, value) to add the value of
+    // game.defeated to the database with the key "total defeated"
+    
+}
+
+game.on("victory", onVictory);
