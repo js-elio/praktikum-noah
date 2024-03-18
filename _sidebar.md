@@ -141,3 +141,7 @@ Welt 4
 * [Level 47](welt4-level47t.md)
 * [Level 48](welt4-level48t.md)
 * [Level 49](welt4-level49t.md)
+* [Level 50](welt4-level50t.md)
+* [Level 51](welt4-level51t.md)
+* [Level 52](welt4-level52t.md)
+* [Level 53](welt4-level53t.md)
