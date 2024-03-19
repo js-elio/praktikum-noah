@@ -1,0 +1,22 @@
+<!-- The <script> tag lets you add JavaScript! -->
+<!-- The browser can only read JavaScript, not Python! -->
+
+<script>
+    // JavaScript should be written inside <script> tags.
+    // CodeCombat uses jQuery to make JavaScript easier.
+    // jQuery is a function, like moveLeft().
+    // Except instead of "moveLeft()", it's just: "$()"
+    // Finds #theImage.
+    var image = $("#theImage"); 
+    // Setting the image's "background-color" to "red".
+    image.css("background-color", "blue"); 
+    // Set the image's "width" to "200px" and press Run:
+    
+</script>
+<style>
+    /* CSS should be written inside <style> tags. */
+    body {
+        text-align:
+    }
+</style>
+<img id="theImage" src="http://direct.codecombat.com/file/db/thang.type/540f389a821af8000097dc5a/portrait.png"/>
