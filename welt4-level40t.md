@@ -13,3 +13,5 @@ while(true) {
     var enemy = hero.findNearestEnemy();
     checkToDefend(enemy);
 }
+```
+![alt text](image-138.png)

@@ -145,3 +145,6 @@ Welt 4
 * [Level 51](welt4-level51t.md)
 * [Level 52](welt4-level52t.md)
 * [Level 53](welt4-level53t.md)
+* [Level 54](welt4-level54t.md)
+* [Level 55](welt4-level55t.md)
+* [Level 56](welt4-level56t.md)

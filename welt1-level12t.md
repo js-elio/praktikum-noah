@@ -1,5 +1,5 @@
 # CodeCombat Welt 1 Markdown 
-## Level 2 Weiter hinabsteigen
+## Level 12 Weiter hinabsteigen
 ```
 while(true) {
 hero.moveRight(2);

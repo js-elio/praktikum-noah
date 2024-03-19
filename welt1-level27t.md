@@ -6,5 +6,6 @@ while(true) {
    hero.moveUp();
    hero.moveLeft();
    hero.moveDown(); 
+}
 ```
 ![Alt text](image-30.png)

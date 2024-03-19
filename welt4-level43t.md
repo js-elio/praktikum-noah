@@ -14,3 +14,5 @@ while (true) {
     var lightstone = hero.findNearestItem();
     checkTakeHide(lightstone);
 }
+```
+![alt text](image-136.png)

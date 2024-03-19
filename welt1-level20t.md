@@ -1,5 +1,5 @@
 # CodeCombat Welt 1 Markdown
-## Level 2 Vergesslicher Edelsteinschmied 
+## Level 20 Vergesslicher Edelsteinschmied 
 ```
 hero.moveRight();
 hero.moveDown();

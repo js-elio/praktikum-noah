@@ -1,5 +1,5 @@
 # CodeCombat Welt 1 Markdown
-## Level 47 Unter jedem anderen Namen
+## Level 47 
 ```
 hero.moveUp(3);
 hero.attack("Wicket");

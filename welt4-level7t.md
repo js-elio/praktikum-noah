@@ -1,4 +1,4 @@
-# CodeCombat Welt 3 Markdown
+# CodeCombat Welt 4 Markdown
 ## Level 7 Hinterwald Hinterhalt
 ```
 hero.moveXY(24, 42);

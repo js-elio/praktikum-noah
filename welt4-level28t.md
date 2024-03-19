@@ -11,3 +11,5 @@ var friend3 = "Charles";
 var enemy4 = "Gorgnub";
 var distance4 = hero.distanceTo(enemy4);
 hero.say(distance4);
+```
+![alt text](image-139.png)

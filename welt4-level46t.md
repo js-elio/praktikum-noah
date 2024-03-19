@@ -6,3 +6,5 @@ function sayHello(event) {
 }
 pet.on("hear", sayHello);
 hero.say("Hello, my friend!");
+```
+![alt text](image-137.png)
