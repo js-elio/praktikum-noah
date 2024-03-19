@@ -89,6 +89,8 @@ Welt 3
 * [Level 10](welt3-level10t.md)
 * [Level 11](welt3-level11t.md)
 * [Level 12](welt3-level12t.md)
+* [Level 13](welt3-level13t.md)
+* [Level 14](welt3-level14t.md)
 
 Welt 4
 
