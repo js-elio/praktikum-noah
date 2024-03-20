@@ -75,6 +75,15 @@ Welt 2
 * [Level 20](welt2-level20t.md)
 * [Level 21](welt2-level21t.md)
 * [Level 22](welt2-level22t.md)
+* [Level 23](welt2-level23t.md)
+* [Level 24](welt2-level24t.md)
+* [Level 15](welt2-level25t.md)
+* [Level 16](welt2-level26t.md)
+* [Level 17](welt2-level27t.md)
+* [Level 18](welt2-level28t.md)
+* [Level 19](welt2-level29t.md)
+* [Level 20](welt2-level30t.md)
+* [Level 21](welt2-level31t.md)
 
 Welt 3
 * [Level 1](welt3-level1t.md)

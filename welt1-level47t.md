@@ -1,9 +1,9 @@
 # CodeCombat Welt 1 Markdown
 ## Level 47 
-```
-hero.moveUp(3);
+```oveUp(3);
 hero.attack("Wicket");
-hero.moveRight(2);
+hero.moveR
+hero.might(2);
 hero.moveLeft(2);
 hero.attack("Treasure Chest");
 hero.moveUp();
